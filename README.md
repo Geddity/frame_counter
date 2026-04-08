@@ -37,7 +37,7 @@
     bash
     
     git clone https://github.com/Geddity/frame_counter.git
-    cd frame-counter
+    cd frame_counter
 
 ### 2. Установка зависимостей
 
